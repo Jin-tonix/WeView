@@ -12,7 +12,7 @@ class _MainLayoutState extends State<MainLayout> {
 
   final List<String> appBarTitles = ['홈', '리뷰', '커뮤니티', '더보기'];
   final List<Widget> _pages = [
-    HomeScreen(notifications: [],),
+    HomeScreen(),
     Center(child: Text('Place Reviews Screen', style: TextStyle(fontSize: 18))),
     Center(child: Text('Community Screen', style: TextStyle(fontSize: 18))),
     Center(child: Text('More Screen', style: TextStyle(fontSize: 18))),

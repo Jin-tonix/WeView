@@ -10,10 +10,6 @@ flutter_test
 3.3
 file:///C:/Devtool/flutter/packages/flutter_test/
 file:///C:/Devtool/flutter/packages/flutter_test/lib/
-weview
-2.18
-file:///C:/Projects/weview/
-file:///C:/Projects/weview/lib/
 async
 2.18
 file:///C:/Users/USER/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.11.0/
@@ -114,4 +110,8 @@ web
 3.4
 file:///C:/Users/USER/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.1.0/
 file:///C:/Users/USER/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.1.0/lib/
+weview
+2.18
+file:///C:/Users/USER/Desktop/weview/
+file:///C:/Users/USER/Desktop/weview/lib/
 2
